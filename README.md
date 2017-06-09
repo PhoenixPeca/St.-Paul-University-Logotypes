@@ -17,4 +17,4 @@ Artist Email: [aspaciop@phoenixpeca.xyz](mailto:aspaciop@phoenixpeca.xyz)
 ---
 
 ### LICENSING
-This repository contains 6 logotypes of an organization of educational institutions in the Philippines, and is protected by copyright. Use of the logo here does not imply endorsement of the organization by Phoenix Eve Aspacio (Phoenix Peca) or GitHub, Inc., nor vice versa.
+This repository contains 6 artworks of logotypes of an organization of educational institutions in the Philippines, and could protected by copyright. Use of the logo here does not imply endorsement of the organization by Phoenix Eve Aspacio (Phoenix Peca) or GitHub, Inc., nor vice versa.
