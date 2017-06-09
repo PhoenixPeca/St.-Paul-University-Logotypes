@@ -3,6 +3,8 @@
 
 This is an unofficial repository of logotypes of St. Paul University. All logotypes are hand-traced by Phoenix Eve Aspacio in his freetime. If you find this helpful, you can always treat him some KitKat bars, just click the donate button. :wink:
 
+Artist Contact: [aspaciop@phoenixpeca.xyz](mailto:aspaciop@phoenixpeca.xyz)
+
 ---
 
 _Contents:_
