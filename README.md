@@ -19,6 +19,7 @@ Some logotypes have underwent extreme modification to match with the design of o
 * [Portable Network Graphics (.PNG) files](https://github.com/PhoenixPeca/St.-Paul-University-Logotypes/tree/master/PNG) (resized to W=1000px H=1000px)
 
 ![SPU-LOGO](https://i.imgur.com/7ceO7Uw.png)
+Logotypes have been arranged in alphabetical-order starting from left to right then countinued at the second line at the same order.
 
 ---
 
