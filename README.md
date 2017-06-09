@@ -1,7 +1,7 @@
 # St. Paul University Logotypes
 [![Donate](https://img.shields.io/badge/style-PayPal-green.svg?style=flat&label=Donate)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ZHJQTCW4UZ8A)
 
-This is an unofficial repository of logotypes of St. Paul University. All logotypes are hand-traced by Phoenix Eve Aspacio in his freetime. Just to inform, these logotypes are vector images, meaning they can be scaled infinitely, without any loss of quality or fidelity. If you find this helpful, you can always treat him some KitKat bars, just click the donate button. :wink:
+This is an unofficial repository of logotypes of St. Paul University. All logotypes are hand-traced from the original logo by Phoenix Eve Aspacio in his freetime. Just to inform, these logotypes are vector images, meaning they can be scaled infinitely, without any loss of quality or fidelity. If you find this helpful, you can always treat him some KitKat bars, just click the donate button. :wink:
 
 Artist Email: [aspaciop@phoenixpeca.xyz](mailto:aspaciop@phoenixpeca.xyz)
 
