@@ -7,6 +7,12 @@ Artist Email: [aspaciop@phoenixpeca.xyz](mailto:aspaciop@phoenixpeca.xyz)
 
 ---
 
+## :warning: WARNING :warning:
+
+Some logotypes have underwent extreme modification to match with the design of other universities, such that using them will likely cause (legal) issues, unless otherwise stated. I recommend you to be cautious because I reserve no right for any damage this could cause. By downloading any logotypes, you agree to be bound by these terms.
+
+---
+
 ### Contents
 * [Adobe Illustrator Artwork (.AI) files](https://github.com/PhoenixPeca/St.-Paul-University-Logotypes/tree/master/AI)
 * [Scalable Vector Sraphics (.SVG) files](https://github.com/PhoenixPeca/St.-Paul-University-Logotypes/tree/master/SVG) (resized to W=1000px H=1000px)
