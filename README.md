@@ -1,5 +1,7 @@
 # St. Paul-University Logotypes
-This is an unofficial repository of logotypes of St. Paul University.
+[![Donate](https://img.shields.io/badge/style-PayPal-green.svg?style=flat&label=Donate)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ZHJQTCW4UZ8A)
+
+This is an unofficial repository of logotypes of St. Paul University. All logotypes are hand-traced my Phoenix Eve Aspacio in his freetime. If you find this helpful, you can always hit the donate button ato treat him some KitKat bars. :wink:
 
 ---
 
