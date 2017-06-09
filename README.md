@@ -23,5 +23,5 @@ Logotypes have been arranged in alphabetical-order starting from left to right t
 
 ---
 
-### LICENSING
-This repository contains 6 artworks of logotypes of an organization of educational institutions in the Philippines, and could protected by copyright. Use of the logo here does not imply endorsement of the organization by Phoenix Eve Aspacio (Phoenix Peca) or GitHub, Inc., nor vice versa.
+### OWNERSHIP
+This repository contains 6 artworks of logotypes of an organization of educational institutions in the Philippines, and could protected by copyright. Use of the logo here does not imply endorsement or ownershop of the organization by Phoenix Eve Aspacio (Phoenix Peca) or GitHub, Inc., nor vice versa.
