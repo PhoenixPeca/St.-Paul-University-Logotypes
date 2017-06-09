@@ -9,7 +9,7 @@ Artist Email: [aspaciop@phoenixpeca.xyz](mailto:aspaciop@phoenixpeca.xyz) 📨
 
 ## :warning: WARNING :warning:TERMS OF USE :warning: WARNING :warning: 
 
-Some logotypes have underwent extreme modification to match with the design of other universities, such that using them will likely cause (legal) issues, unless otherwise stated. **Furthermore, I recommend you to be cautious because I reserve no restrictions as to how these logotypes should be used nor will I be held responsible for injury, death, expense, hair-loss, or inconvenience among any damage that could arise in any case.** By downloading, screen-grabbing or obtaining and using any logotype, you agree to be bound by these terms.
+Some logotypes have underwent extreme modification to match with the design of other universities, such that using them will likely cause (legal) issues, unless otherwise stated. **Furthermore, I recommend you to be cautious because I reserve no restrictions as to how these logotypes should be used nor will I be held responsible for injury, death, expense, hair-loss, or inconvenience among any damage that could arise in any case.** However, the respective institutions could have implied certian rules on the use of their logotypes for which you are on your own disretion to follow. By downloading, screen-grabbing or obtaining and using any logotype, you agree to be bound by these terms.
 
 ---
 
