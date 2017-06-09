@@ -10,4 +10,4 @@ _Contents:_
 * [Scalable Vector Sraphics (.SVG) files](https://github.com/PhoenixPeca/St.-Paul-University-Logotypes/tree/master/SVG) (resized to W=1000px H=1000px)
 * [Portable Network Graphics (.PNG) files](https://github.com/PhoenixPeca/St.-Paul-University-Logotypes/tree/master/PNG) (resized to W=1000px H=1000px)
 
-![Donate](https://i.imgur.com/7ceO7Uw.png)
+![SPU-LOGO](https://i.imgur.com/7ceO7Uw.png)
